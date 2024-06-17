@@ -4,7 +4,6 @@
 Data Scientist with a multidisciplinary background in social sciences and big data analysis. With a Master's degree in "Méga Données et Analyse Sociale" from [Cnam Médas][cnam], I have over 3 years of professional experience in handling complex datasets, developing automated data pipelines, and leveraging statistical methods for impactful insights.
 
 Key Skills:
-
     Programming Languages: R, Python, SQL
     Data Manipulation & Visualization: Tidyverse, Gtsummary, ggplot2
     Survival Analysis: Survival, Survminer, Prodlim
